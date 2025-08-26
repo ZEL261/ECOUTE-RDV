@@ -82,7 +82,7 @@ function makeICS({ title, description, startLocal, durationMin }) {
 }
 
 export default function RendezVousEcoute() {
-  const [ownerWhatsApp, setOwnerWhatsApp] = useState("");
+  const [+261382084226, +261382084226] = useState("");
   const [ownerTelegram, setOwnerTelegram] = useState("");
   const [siteTitle, setSiteTitle] = useState("Écoute & Soutien – Rendez-vous en ligne");
 
